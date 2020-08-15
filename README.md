@@ -1,4 +1,4 @@
-![NGOPI DOANG NGODING KAGA](/tenor.gif)
+![](/tenor.gif)
 ### Sedikit Ngoding Banyak Ngopinya
 ## Saldi Sucipto - Github Repositori
 
