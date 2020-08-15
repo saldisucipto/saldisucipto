@@ -1,4 +1,5 @@
-### Ngopi Doang Ngoding Kaga 👋
+![NGOPI DOANG NGODING KAGA](tenor.gif)
+### Sedikit Ngoding Banyak Ngopinya
 ## Saldi Sucipto - Github Repositori
 
 Repositori ini dibuat untuk beberapa keperlaun: 
