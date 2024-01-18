@@ -1,4 +1,4 @@
-<h1 align="left">Hallo 👋, Saya, Saldi Sucipto</h1>
+<h1 align="left">Hallo 👋, Namaku Saldi Sucipto</h1>
 <h3 align="left">Saya adalah seorang fullstack developer yang masih belajar. Saya memiliki minat yang besar dalam bidang pemrograman dan teknologi, dan saya ingin mempelajari lebih lanjut tentang bagaimana membangun aplikasi web dan perangkat lunak.</h3>
 
 - 🔭 Saat ini saya bekerja di **PT. Cipta Aneka Air**
