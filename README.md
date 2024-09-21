@@ -1,7 +1,6 @@
 <h1 align="left">Hallo 👋, Namaku Saldi Sucipto</h1>
 <h3 align="left">Saya adalah seorang WEB Developer dan Flutter Developer. Saya memiliki minat yang besar dalam bidang pemrograman dan teknologi, dan saya ingin mempelajari lebih lanjut tentang bagaimana membangun aplikasi web dan perangkat lunak.</h3>
 
-- 🔭 Saat ini saya bekerja di **PT. Cipta Aneka Air**
 
 - 🌱 Saya mengikuti dan belajar mengenai **PHP, DART, JAVASCRIPT**
 
