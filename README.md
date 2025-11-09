@@ -1,9 +1,9 @@
 # 💻 Saldi Sucipto
 
-### IT Developer | Web & Mobile Developer | System Architect
+### IT Developer | Web & Mobile Developer | System Architect | SEO Specialist
 
-Saya adalah seorang **IT Developer** dengan keahlian dalam pengembangan **aplikasi web, mobile, dan sistem backend**.  
-Fokus utama saya adalah membangun aplikasi yang **stabil, efisien, dan scalable** dengan pendekatan **arsitektur modular** dan **optimisasi performa server**.
+Saya adalah seorang **IT Developer** yang berfokus pada pengembangan **aplikasi web, mobile, dan sistem backend** dengan performa tinggi.  
+Saya memiliki pengalaman dalam membangun sistem berskala besar dengan pendekatan **arsitektur modular**, **server optimization**, serta penerapan **best practice SEO** untuk memastikan aplikasi tidak hanya kuat secara teknis, tetapi juga optimal di mesin pencari.
 
 ---
 
@@ -13,23 +13,28 @@ Fokus utama saya adalah membangun aplikasi yang **stabil, efisien, dan scalable*
 - **Frontend Development:** Vue.js, Nuxt.js, Vite, JavaScript, TailwindCSS, Bootstrap  
 - **Mobile Development:** Flutter, Dart  
 - **Server & Deployment:** Linux, Nginx, GitLab CI/CD, Docker, VPS Management, Mail Server  
+- **SEO & Web Optimization:**  
+  - Technical SEO (struktur HTML, metadata, schema markup)  
+  - Performance Optimization (Lighthouse, Core Web Vitals)  
+  - Web Security & Best Practices (SSL, HTTPS, Caching, Compression)
 
 ---
 
 ### ⚙️ Pengalaman Teknis
 
-- Membangun dan mengelola **sistem ERP modular** yang digunakan di lingkungan produksi.  
-- Mengimplementasikan **Laravel Octane (Swoole)** untuk peningkatan performa aplikasi berskala besar.  
-- Menerapkan **CI/CD pipeline** dengan GitLab untuk otomatisasi deployment.  
-- Mengelola **server produksi (VPS)**, termasuk konfigurasi mail server, reverse proxy, dan monitoring.  
-- Mengembangkan **aplikasi mobile Flutter** untuk kebutuhan internal dan eksternal perusahaan.  
+- Merancang dan mengembangkan **ERP modular** berbasis Laravel yang digunakan di lingkungan produksi.  
+- Mengimplementasikan **Laravel Octane (Swoole)** untuk meningkatkan efisiensi dan kecepatan aplikasi.  
+- Menerapkan **CI/CD automation pipeline** dengan GitLab untuk proses build dan deployment otomatis.  
+- Mengelola **server VPS** untuk berbagai proyek dengan konfigurasi Nginx, SSL, reverse proxy, dan optimasi resource.  
+- Mengembangkan **aplikasi mobile Flutter** untuk kebutuhan internal perusahaan.  
+- Mengoptimalkan performa dan visibilitas website dengan **SEO best practices** dan **analytics tracking**.
 
 ---
 
 ### 🧩 Ekosistem & Tools
 
 `Laravel` · `PHP` · `JavaScript` · `Dart` · `Vue.js` · `Nuxt.js` · `Flutter`  
-`MySQL` · `Redis` · `Nginx` · `Linux` · `Docker` · `GitLab CI/CD` · `VSCode`  
+`MySQL` · `Redis` · `Nginx` · `Linux` · `Docker` · `GitLab CI/CD` · `VSCode` · `SEO Tools`  
 
 ---
 
@@ -41,6 +46,5 @@ Fokus utama saya adalah membangun aplikasi yang **stabil, efisien, dan scalable*
 
 ---
 
-> _“Kualitas sistem tidak hanya diukur dari fitur yang banyak, tetapi dari seberapa stabil dan efisien ia berjalan.”_  
+> _“Saya percaya bahwa aplikasi yang hebat bukan hanya cepat dan stabil — tapi juga mudah ditemukan, aman, dan berkelanjutan.”_  
 > — **Saldi Sucipto**
-
