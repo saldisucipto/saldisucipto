@@ -1,17 +1,46 @@
-<h1 align="left">Hallo 👋, Namaku Saldi Sucipto</h1>
-<h3 align="left">Saya adalah seorang WEB Developer dan Flutter Developer. Saya memiliki minat yang besar dalam bidang pemrograman dan teknologi, dan saya ingin mempelajari lebih lanjut tentang bagaimana membangun aplikasi web dan perangkat lunak.</h3>
+# 💻 Saldi Sucipto
 
+### IT Developer | Web & Mobile Developer | System Architect
 
-- 🌱 Saya mengikuti dan belajar mengenai **PHP, DART, JAVASCRIPT**
+Saya adalah seorang **IT Developer** dengan keahlian dalam pengembangan **aplikasi web, mobile, dan sistem backend**.  
+Fokus utama saya adalah membangun aplikasi yang **stabil, efisien, dan scalable** dengan pendekatan **arsitektur modular** dan **optimisasi performa server**.
 
-- 💬 Kamu bisa diskusi dengan saya mengenai **Laravel, Flutter, Vuejs**
+---
 
-- 📫 Email saya **saldisucipto@gmail.com**
+### 🧠 Keahlian Utama
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a>  </p>
+- **Backend Development:** Laravel, PHP, MySQL, Redis, Swoole, Octane  
+- **Frontend Development:** Vue.js, Nuxt.js, Vite, JavaScript, TailwindCSS, Bootstrap  
+- **Mobile Development:** Flutter, Dart  
+- **Server & Deployment:** Linux, Nginx, GitLab CI/CD, Docker, VPS Management, Mail Server  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/saldisucipto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saldisucipto" height="30" width="40" /></a>
-</p>
+---
+
+### ⚙️ Pengalaman Teknis
+
+- Membangun dan mengelola **sistem ERP modular** yang digunakan di lingkungan produksi.  
+- Mengimplementasikan **Laravel Octane (Swoole)** untuk peningkatan performa aplikasi berskala besar.  
+- Menerapkan **CI/CD pipeline** dengan GitLab untuk otomatisasi deployment.  
+- Mengelola **server produksi (VPS)**, termasuk konfigurasi mail server, reverse proxy, dan monitoring.  
+- Mengembangkan **aplikasi mobile Flutter** untuk kebutuhan internal dan eksternal perusahaan.  
+
+---
+
+### 🧩 Ekosistem & Tools
+
+`Laravel` · `PHP` · `JavaScript` · `Dart` · `Vue.js` · `Nuxt.js` · `Flutter`  
+`MySQL` · `Redis` · `Nginx` · `Linux` · `Docker` · `GitLab CI/CD` · `VSCode`  
+
+---
+
+### 📫 Hubungi Saya
+
+- ✉️ **Email:** [saldisucipto@gmail.com](mailto:saldisucipto@gmail.com)  
+- 💼 **LinkedIn:** [linkedin.com/in/saldisucipto](https://linkedin.com/in/saldisucipto)  
+- 🧑‍💻 **GitHub:** [github.com/saldisucipto](https://github.com/saldisucipto)
+
+---
+
+> _“Kualitas sistem tidak hanya diukur dari fitur yang banyak, tetapi dari seberapa stabil dan efisien ia berjalan.”_  
+> — **Saldi Sucipto**
+
